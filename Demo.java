@@ -7,7 +7,7 @@ class Demo {
     public static void main(String[] args) {
  int a =6;
  int b= 8;
-        
+        //efwre
     Math add=(x,y)->  x+y;
     Math sub=(x,y)-> x-y;
     Math mul=(x,y)-> x*y;
